@@ -2,11 +2,11 @@
 
 Bring your artboards, pages and layers to Justinmind and turn your designs into an interactive, shareable prototype.
 
-[![Justinmind](https://raw.githubusercontent.com/vconesa/justinmind-sketch/master/justinmind-new-release-prototyping-integration-sketch.gif)](https://www.justinmind.com/support/justinmind-prototyping-tool-sketch-integration/)
+[![Justinmind](https://raw.githubusercontent.com/JustinmindDevelopment/justinmind-sketch/master/justinmind-new-release-prototyping-integration-sketch.gif)](https://www.justinmind.com/support/justinmind-prototyping-tool-sketch-integration/)
 
 # Installation
 
-[Download](https://github.com/vconesa/justinmind-sketch/raw/master/justinmind_1.3.0.sketchplugin.zip) and extract the contents of this zip file. Then double-click the justinmind_1.3.0.sketchplugin bundle to install the plugin. This will only work if you are using Sketch 3.3 or later.
+[Download](https://github.com/JustinmindDevelopment/justinmind-sketch/raw/master/justinmind_1.3.0.sketchplugin.zip) and extract the contents of this zip file. Then double-click the justinmind_1.3.0.sketchplugin bundle to install the plugin. This will only work if you are using Sketch 3.3 or later.
 
 
 # Usage
