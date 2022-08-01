@@ -2,7 +2,7 @@
     "name" : "Justinmind",
     "appcast": "https://raw.githubusercontent.com/JustinmindDevelopment/justinmind-sketch/master/appcast.xml",
     "identifier" : "com.justinmind.exporttojustinmind",
-    "version" : "1.3.0",
+    "version" : "1.4.0",
     "description" : "Export your Sketch artboards to Justinmind.",
     "authorEmail" : "jim.info@justinmind.com",
     "author" : "Justinmind",
