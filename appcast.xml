@@ -6,6 +6,19 @@
     <description>Export your Sketch artboards to Justinmind.</description>
     <language>en</language>
     <item>
+        <title>Version 1.4.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Text kerning defined on the sketch design are imported as letter-spacing on Justinmind</li>
+              <li>Bug fixes</li>
+              <li>Rebranding</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/JustinmindDevelopment/justinmind-sketch/raw/master/justinmind_1.4.1.sketchplugin.zip" sparkle:version="1.3.0" />
+    </item>
+    <item>
         <title>Version 1.4.0</title>
         <description>
           <![CDATA[
