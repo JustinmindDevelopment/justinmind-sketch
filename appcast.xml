@@ -6,6 +6,25 @@
     <description>Export your Sketch artboards to Justinmind.</description>
     <language>en</language>
     <item>
+        <title>Version 1.5.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Crash and bug fixes</li>
+              <li>Added new device frames</li>
+              <li>More styles from your Sketch design will be maintained in Justinmind:</li>
+              <ul>
+                <li>Linear and radial gradient fills.</li>
+                <li>Image fills</li>
+                <li>Dashed and dotted borders</li>
+                <li>Individual radiuses for rectangle corners</li>
+              </ul>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/JustinmindDevelopment/justinmind-sketch/raw/master/justinmind_1.5.0.sketchplugin.zip" sparkle:version="1.5.0" />
+    </item>
+    <item>
         <title>Version 1.4.1</title>
         <description>
           <![CDATA[
